@@ -16,7 +16,37 @@ public class Triangles {
         System.out.println("左上三角形を表示する。");
         triangleLU(n);
 
+        System.out.println("右上直角三角形を表示する");
+        triangleRU(n);
 
+        System.out.println("右下直角三角形を表示する");
+        triangleRB(n);
+
+
+    }
+
+    private static void triangleRB(int n) {
+        for (int i = 1; i <= n; i++){
+            for(int j = i; j < n; j++){
+                System.out.printf(" ");
+            }
+            for (int k = 1; k < i + 1; k++){
+                System.out.printf("*");
+            }
+            System.out.println();
+        }
+    }
+
+    private static void triangleRU(int n) {
+        for (int i = 0; i < n; i++){
+            for(int j = 0; j < i; j++){
+                System.out.printf(" ");
+            }
+            for (int k = n - i; k >= 1; k--){
+                System.out.printf("*");
+            }
+            System.out.println();
+        }
     }
 
     private static void triangleLU(int n) {
