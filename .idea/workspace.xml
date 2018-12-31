@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b009cb8-fde4-4f3f-8e09-b227a4e31d0d" name="Default Changelist" comment="20181227">
-      <change afterPath="$PROJECT_DIR$/src/chapter_2/CardConvRev.java" afterDir="false" />
+    <list default="true" id="0b009cb8-fde4-4f3f-8e09-b227a4e31d0d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/chapter_2/ArraySumForIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_2/DayOfYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_2/Int2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_2/PhysicalExamination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_2/PrimeNumber1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_2/PrimeNumber2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_2/PrimeNumber3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -14,75 +20,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter_2/IntArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter_2/IntArrayInit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter_2/CloneArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter_2/MaxOfArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="29" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter_2/MaxOfArrayRand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3">
-              <caret line="5" column="29" lean-forward="true" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter_2/MaxOfArray2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter_2/ReverseArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="33" column="5" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter_2/ReverseArray2.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -101,11 +38,78 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter_2/CardConvRev.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="296">
               <caret line="22" column="47" lean-forward="true" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter_2/PrimeNumber1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter_2/PrimeNumber2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter_2/PrimeNumber3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter_2/Int2DArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter_2/DayOfYear.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="454">
+              <caret line="61" column="34" lean-forward="true" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
+              <folding>
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter_2/ArraySumForIn.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter_2/PhysicalExamination.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="68" column="31" selection-start-line="68" selection-start-column="31" selection-end-line="68" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -167,6 +171,13 @@
         <option value="$PROJECT_DIR$/src/chapter_2/ReverseArray2.java" />
         <option value="$PROJECT_DIR$/src/chapter_2/sumOf.java" />
         <option value="$PROJECT_DIR$/src/chapter_2/CardConvRev.java" />
+        <option value="$PROJECT_DIR$/src/chapter_2/PrimeNumber1.java" />
+        <option value="$PROJECT_DIR$/src/chapter_2/PrimeNumber2.java" />
+        <option value="$PROJECT_DIR$/src/chapter_2/PrimeNumber3.java" />
+        <option value="$PROJECT_DIR$/src/chapter_2/Int2DArray.java" />
+        <option value="$PROJECT_DIR$/src/chapter_2/DayOfYear.java" />
+        <option value="$PROJECT_DIR$/src/chapter_2/ArraySumForIn.java" />
+        <option value="$PROJECT_DIR$/src/chapter_2/PhysicalExamination.java" />
       </list>
     </option>
   </component>
@@ -209,7 +220,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546097306623" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546248544326" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -223,9 +234,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CardConvRev">
-    <configuration name="CardConvRev" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_2.CardConvRev" />
+  <component name="RunManager" selected="Application.PhysicalExamination">
+    <configuration name="ArraySumForIn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_2.ArraySumForIn" />
       <module name="algorithm_java" />
       <extension name="coverage">
         <pattern>
@@ -237,8 +248,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxOfArray2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_2.MaxOfArray2" />
+    <configuration name="DayOfYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_2.DayOfYear" />
       <module name="algorithm_java" />
       <extension name="coverage">
         <pattern>
@@ -250,8 +261,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_2.ReverseArray" />
+    <configuration name="Int2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_2.Int2DArray" />
       <module name="algorithm_java" />
       <extension name="coverage">
         <pattern>
@@ -263,8 +274,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseArray2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_2.ReverseArray2" />
+    <configuration name="PhysicalExamination" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_2.PhysicalExamination" />
       <module name="algorithm_java" />
       <extension name="coverage">
         <pattern>
@@ -276,8 +287,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sumOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_2.sumOf" />
+    <configuration name="PrimeNumber3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_2.PrimeNumber3" />
       <module name="algorithm_java" />
       <extension name="coverage">
         <pattern>
@@ -290,19 +301,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MaxOfArray2" />
-      <item itemvalue="Application.ReverseArray" />
-      <item itemvalue="Application.ReverseArray2" />
-      <item itemvalue="Application.sumOf" />
-      <item itemvalue="Application.CardConvRev" />
+      <item itemvalue="Application.PrimeNumber3" />
+      <item itemvalue="Application.Int2DArray" />
+      <item itemvalue="Application.DayOfYear" />
+      <item itemvalue="Application.ArraySumForIn" />
+      <item itemvalue="Application.PhysicalExamination" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CardConvRev" />
-        <item itemvalue="Application.sumOf" />
-        <item itemvalue="Application.ReverseArray2" />
-        <item itemvalue="Application.ReverseArray" />
-        <item itemvalue="Application.MaxOfArray2" />
+        <item itemvalue="Application.PhysicalExamination" />
+        <item itemvalue="Application.ArraySumForIn" />
+        <item itemvalue="Application.DayOfYear" />
+        <item itemvalue="Application.Int2DArray" />
+        <item itemvalue="Application.PrimeNumber3" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1545837849498</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="20181230">
+      <created>1546097317927</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1546097317927</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -345,6 +363,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -377,7 +396,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20181226" />
     <MESSAGE value="20181227" />
-    <option name="LAST_COMMIT_MESSAGE" value="20181227" />
+    <MESSAGE value="20181230" />
+    <option name="LAST_COMMIT_MESSAGE" value="20181230" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -647,6 +667,59 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="296">
           <caret line="22" column="47" lean-forward="true" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_2/PrimeNumber1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_2/PrimeNumber2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_2/PrimeNumber3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_2/Int2DArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_2/DayOfYear.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="61" column="34" lean-forward="true" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
+          <folding>
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_2/ArraySumForIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_2/PhysicalExamination.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="68" column="31" selection-start-line="68" selection-start-column="31" selection-end-line="68" selection-end-column="31" />
         </state>
       </provider>
     </entry>
