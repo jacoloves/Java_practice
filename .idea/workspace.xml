@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b009cb8-fde4-4f3f-8e09-b227a4e31d0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter_2/SeqSeqrchSen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_3/BinSerach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_3/SeqSearch2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_3/SeqSeqrch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_3/BinSearch2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_3/BinSearchX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_3/BinarySearchTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_3/searchIdx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_3/SeqSearch3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_3/SeqSearch3.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,55 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter_2/PrimeNumber2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter_2/PrimeNumber3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter_2/Int2DArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter_2/DayOfYear.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="61" column="34" lean-forward="true" selection-start-line="61" selection-start-column="34" selection-end-line="61" selection-end-column="34" />
-              <folding>
-                <element signature="e#238#239#0" expanded="true" />
-                <element signature="e#321#322#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter_2/ArraySumForIn.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter_2/PhysicalExamination.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -102,11 +54,59 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter_3/SeqSearch2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
               <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter_3/SeqSearch3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="417">
+              <caret line="34" column="18" lean-forward="true" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter_3/searchIdx.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter_3/BinSearch2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-437">
+              <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter_3/BinSearchX.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="241">
+              <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter_3/BinarySearchTester.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="32" column="53" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -180,6 +180,11 @@
         <option value="$PROJECT_DIR$/src/chapter_2/SeqSeqrchSen.java" />
         <option value="$PROJECT_DIR$/src/chapter_3/BinSerach.java" />
         <option value="$PROJECT_DIR$/src/chapter_3/SeqSearch2.java" />
+        <option value="$PROJECT_DIR$/src/chapter_3/SeqSearch3.java" />
+        <option value="$PROJECT_DIR$/src/chapter_3/searchIdx.java" />
+        <option value="$PROJECT_DIR$/src/chapter_3/BinSearch2.java" />
+        <option value="$PROJECT_DIR$/src/chapter_3/BinSearchX.java" />
+        <option value="$PROJECT_DIR$/src/chapter_3/BinarySearchTester.java" />
       </list>
     </option>
   </component>
@@ -222,7 +227,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546347913998" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546390052202" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -236,9 +241,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SeqSearch2">
-    <configuration name="BinSerach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_3.BinSerach" />
+  <component name="RunManager" selected="Application.BinarySearchTester">
+    <configuration name="BinSearch2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_3.BinSearch2" />
       <module name="algorithm_java" />
       <extension name="coverage">
         <pattern>
@@ -250,8 +255,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeqSearch2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_3.SeqSearch2" />
+    <configuration name="BinSearchX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_3.BinSearchX" />
       <module name="algorithm_java" />
       <extension name="coverage">
         <pattern>
@@ -263,8 +268,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeqSeqrch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_3.SeqSeqrch" />
+    <configuration name="BinarySearchTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_3.BinarySearchTester" />
       <module name="algorithm_java" />
       <extension name="coverage">
         <pattern>
@@ -276,12 +281,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeqSeqrchSen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_2.SeqSeqrchSen" />
+    <configuration name="SeqSearch3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_3.SeqSearch3" />
       <module name="algorithm_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_2.*" />
+          <option name="PATTERN" value="chapter_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,12 +294,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="YMDcreate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_2.YMDcreate" />
+    <configuration name="searchIdx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_3.searchIdx" />
       <module name="algorithm_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_2.*" />
+          <option name="PATTERN" value="chapter_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -303,19 +308,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.YMDcreate" />
-      <item itemvalue="Application.SeqSeqrch" />
-      <item itemvalue="Application.SeqSeqrchSen" />
-      <item itemvalue="Application.BinSerach" />
-      <item itemvalue="Application.SeqSearch2" />
+      <item itemvalue="Application.SeqSearch3" />
+      <item itemvalue="Application.searchIdx" />
+      <item itemvalue="Application.BinSearch2" />
+      <item itemvalue="Application.BinSearchX" />
+      <item itemvalue="Application.BinarySearchTester" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SeqSearch2" />
-        <item itemvalue="Application.BinSerach" />
-        <item itemvalue="Application.SeqSeqrchSen" />
-        <item itemvalue="Application.SeqSeqrch" />
-        <item itemvalue="Application.YMDcreate" />
+        <item itemvalue="Application.BinarySearchTester" />
+        <item itemvalue="Application.BinSearchX" />
+        <item itemvalue="Application.BinSearch2" />
+        <item itemvalue="Application.searchIdx" />
+        <item itemvalue="Application.SeqSearch3" />
       </list>
     </recent_temporary>
   </component>
@@ -365,6 +370,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -375,12 +381,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.23493975" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.23493975" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
@@ -427,13 +433,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Max3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Median.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -763,6 +762,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_3/SeqSearch3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="34" column="18" lean-forward="true" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_3/searchIdx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_3/BinSearch2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-437">
+          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_3/BinSearchX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="17" column="26" lean-forward="true" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_3/BinarySearchTester.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="32" column="53" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
