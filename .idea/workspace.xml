@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b009cb8-fde4-4f3f-8e09-b227a4e31d0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter_4/IntDeque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_4/IntDequeTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_4/LastNElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,19 +19,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="615">
               <caret line="41" column="38" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Progate/Lesson1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#84#85#0" expanded="true" />
-                <element signature="e#132#133#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -108,11 +94,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter_4/IntDequeTester.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
+            <state relative-caret-position="1320">
               <caret line="88" column="26" selection-start-line="88" selection-start-column="26" selection-end-line="88" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter_4/LastNElements.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="59" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -158,7 +153,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapter_2/IntArray.java" />
         <option value="$PROJECT_DIR$/src/chapter_2/IntArrayInit.java" />
         <option value="$PROJECT_DIR$/src/chapter_2/CloneArray.java" />
         <option value="$PROJECT_DIR$/src/chapter_2/MaxOfArray.java" />
@@ -209,6 +203,7 @@
         <option value="$PROJECT_DIR$/src/chapter_4/GqueueTester.java" />
         <option value="$PROJECT_DIR$/src/chapter_4/IntDeque.java" />
         <option value="$PROJECT_DIR$/src/chapter_4/IntDequeTester.java" />
+        <option value="$PROJECT_DIR$/src/chapter_4/LastNElements.java" />
       </list>
     </option>
   </component>
@@ -257,7 +252,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546866166124" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547037957454" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -466,13 +461,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Spira.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter_2/IntArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -883,8 +871,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter_4/IntDequeTester.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
+        <state relative-caret-position="1320">
           <caret line="88" column="26" selection-start-line="88" selection-start-column="26" selection-end-line="88" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_4/LastNElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="59" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
         </state>
       </provider>
     </entry>
