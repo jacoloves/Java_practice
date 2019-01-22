@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b009cb8-fde4-4f3f-8e09-b227a4e31d0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/chapter_5/EightQueen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_5/QueenB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_5/QueenBB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_5/EightQueenEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_5/EightQueenN.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,24 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter_5/Recur2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter_5/RecurX1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter_5/RecurX2.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -111,14 +92,40 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter_5/EightQueen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+            <state relative-caret-position="375">
+              <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
               <folding>
                 <element signature="e#910#911#0" expanded="true" />
                 <element signature="e#930#931#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/chapter_5/EightQueenEx.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+              <folding>
+                <element signature="e#1033#1034#0" expanded="true" />
+                <element signature="e#1054#1055#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter_5/EightQueenN.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="40" column="39" lean-forward="true" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+              <folding>
+                <element signature="e#1449#1450#0" expanded="true" />
+                <element signature="e#1468#1469#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -147,8 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/chapter_2/YMDcreate.java" />
-        <option value="$PROJECT_DIR$/src/chapter_3/SeqSeqrch.java" />
         <option value="$PROJECT_DIR$/src/chapter_2/SeqSeqrchSen.java" />
         <option value="$PROJECT_DIR$/src/chapter_3/BinSerach.java" />
         <option value="$PROJECT_DIR$/src/chapter_3/SeqSearch2.java" />
@@ -198,6 +203,8 @@
         <option value="$PROJECT_DIR$/src/chapter_5/QueenB.java" />
         <option value="$PROJECT_DIR$/src/chapter_5/QueenBB.java" />
         <option value="$PROJECT_DIR$/src/chapter_5/EightQueen.java" />
+        <option value="$PROJECT_DIR$/src/chapter_5/EightQueenEx.java" />
+        <option value="$PROJECT_DIR$/src/chapter_5/EightQueenN.java" />
       </list>
     </option>
   </component>
@@ -246,7 +253,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548066650054" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548068473859" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -263,7 +270,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EightQueen">
+  <component name="RunManager" selected="Application.EightQueenN">
     <configuration name="EightQueen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter_5.EightQueen" />
       <module name="algorithm_java" />
@@ -277,8 +284,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HanoiN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_5.HanoiN" />
+    <configuration name="EightQueenEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_5.EightQueenEx" />
       <module name="algorithm_java" />
       <extension name="coverage">
         <pattern>
@@ -290,8 +297,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HanoiX2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_5.HanoiX2" />
+    <configuration name="EightQueenN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_5.EightQueenN" />
       <module name="algorithm_java" />
       <extension name="coverage">
         <pattern>
@@ -330,19 +337,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HanoiX2" />
-      <item itemvalue="Application.HanoiN" />
       <item itemvalue="Application.QueenB" />
       <item itemvalue="Application.QueenBB" />
       <item itemvalue="Application.EightQueen" />
+      <item itemvalue="Application.EightQueenEx" />
+      <item itemvalue="Application.EightQueenN" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EightQueenN" />
+        <item itemvalue="Application.EightQueenEx" />
         <item itemvalue="Application.EightQueen" />
         <item itemvalue="Application.QueenBB" />
         <item itemvalue="Application.QueenB" />
-        <item itemvalue="Application.HanoiN" />
-        <item itemvalue="Application.HanoiX2" />
       </list>
     </recent_temporary>
   </component>
@@ -392,8 +399,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -402,7 +410,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -460,14 +468,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/chapter_2/YMDcreate.java" />
-    <entry file="file://$PROJECT_DIR$/src/chapter_2/PhysicalExamination.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter_3/SeqSeqrch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
@@ -887,11 +887,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter_5/EightQueen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        <state relative-caret-position="375">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
           <folding>
             <element signature="e#910#911#0" expanded="true" />
             <element signature="e#930#931#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_5/EightQueenEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="17" lean-forward="true" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
+          <folding>
+            <element signature="e#1033#1034#0" expanded="true" />
+            <element signature="e#1054#1055#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter_5/EightQueenN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="40" column="39" lean-forward="true" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+          <folding>
+            <element signature="e#1449#1450#0" expanded="true" />
+            <element signature="e#1468#1469#0" expanded="true" />
           </folding>
         </state>
       </provider>
