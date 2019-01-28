@@ -1,0 +1,14 @@
+package DB_xml_catch;
+
+import javax.swing.text.Document;
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+
+
+public class db_xml_catch {
+
+	DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
+	DocumentBuilder builder = factory.newDocumentBuilder();
+	Document document = builder.parse("./src/cfg/db_config.xml");
+
+}

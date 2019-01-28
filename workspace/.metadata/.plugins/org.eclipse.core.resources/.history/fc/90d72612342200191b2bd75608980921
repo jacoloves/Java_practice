@@ -1,0 +1,10 @@
+package test_xml_db_connection;
+
+public class xml_db_connecter {
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+
+	}
+
+}

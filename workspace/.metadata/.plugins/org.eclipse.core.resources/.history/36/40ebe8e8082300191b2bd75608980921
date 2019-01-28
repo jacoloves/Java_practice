@@ -1,0 +1,64 @@
+package xml_catch;
+
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+
+import org.w3c.dom.Document;
+import org.w3c.dom.Element;
+import org.w3c.dom.Node;
+import org.w3c.dom.NodeList;
+
+public class xml_read {
+
+	/**
+	 * デフォルトコンストラクタ
+	 * @throws Exception
+	 *
+	 */
+
+	xml_read(String db_name) throws Exception {
+		String db_xml = db_name;
+		ReadFile(db_xml);
+	}
+
+	//xmlファイルを読み込む
+	private static String ReadFile(String db_xml, String db_info) throws Exception {
+		// TODO 自動生成されたメソッド・スタブ
+		DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
+		DocumentBuilder builder = factory.newDocumentBuilder();
+		Document document = builder.parse(db_xml);
+
+		Element root = document.getDocumentElement();
+		String user_name = null, password = null;
+
+		NodeList connectNodeList = root.getChildNodes();
+		for (int i = 0; i < connectNodeList.getLength(); i++) {
+			Node db_connectNode = connectNodeList.item(i);
+			if (db_connectNode.getNodeType() == Node.ELEMENT_NODE) {
+				Element dbElement = (Element)db_connectNode;
+				if (dbElement.getNodeName().equals("singleDB")) {
+					NodeList dbChildrenNodeList = dbElement.getChildNodes();
+					for (int j= 0; j < dbChildrenNodeList.getLength(); j++) {
+						Node node = dbChildrenNodeList.item(j);
+						if(node.getNodeType() == Node.ELEMENT_NODE) {
+							if (node.getNodeName() == db_info) {
+								user_name = node.getTextContent();
+								return user_name;
+							}else if (node.getNodeName() == db_info) {
+								password = node.getTextContent();
+								return password;
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+
+	public static void main(String[] args) {
+		// TODO 自動生成されたメソッド・スタブ
+		String db_name = "./src/cfg/db_config.xml";
+		ReadFile(db_name);
+	}
+
+}
