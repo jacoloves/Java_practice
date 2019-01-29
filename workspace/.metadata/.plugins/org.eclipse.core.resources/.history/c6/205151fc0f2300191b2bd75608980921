@@ -1,0 +1,19 @@
+package test_xml_db_connection;
+
+import xml_catch.xml_read;
+
+public class xml_db_connecter {
+
+	public final static String XML_DIR = "./src/cfg/db_config.xml";
+	public final static String  DB_USER = "db_name";
+	public final static String  DB_PASS = "pass";
+
+	public static void main(String[] args) throws Exception {
+		//別のクラスを呼び出す。
+		String user = xml_read.create().getUser(DB_USER);
+		System.out.println(user);
+
+
+	}
+
+}
