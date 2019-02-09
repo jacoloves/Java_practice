@@ -16,6 +16,7 @@ public class StopWatchKun extends JFrame implements ActionListener {
     public static void main(String[] args) {
         StopWatchKun frame = new StopWatchKun();
         frame.setBounds(10, 10, 300, 250);
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setTitle("すとっぷうぉっちくん");
         frame.setVisible(true);
     }
@@ -66,5 +67,44 @@ public class StopWatchKun extends JFrame implements ActionListener {
     @Override
     public void actionPerformed(ActionEvent e) {
         String cmd = e.getActionCommand();
+
+        if (cmd.equals("start")) {
+            stopButton.setEnabled(true);
+            startButton.setEnabled(false);
+            resetButton.setEnabled(true);
+
+            timer.start();
+        } else if (cmd.equals("timer")) {
+
+            if (sec == 60) {
+                min += sec / 60;
+                sec = 0;
+            }
+
+            if (min == 60) {
+                hour += min / 60;
+                min = 0;
+            }
+
+            label_hour.setText(hour + " hour");
+            label_min.setText(min + " min");
+            label_sec.setText(sec + " sec");
+
+            sec++;
+        } else if (cmd.equals("stop")) {
+            stopButton.setEnabled(false);
+            startButton.setEnabled(true);
+            resetButton.setEnabled(true);
+
+            timer.stop();
+        } else if (cmd.equals("reset")) {
+            resetButton.setEnabled(false);
+            stopButton.setEnabled(false);
+            startButton.setEnabled(true);
+
+            hour = 0;
+            min = 0;
+            sec = 0;
+        }
     }
 }

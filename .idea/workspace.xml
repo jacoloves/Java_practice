@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="stopwacthkun:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0b009cb8-fde4-4f3f-8e09-b227a4e31d0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StopWatch/StopWatchKun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/stopwacthkun_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StopWatch/StopWatchKun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StopWatch/StopWatchKun.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/src/Swing_Sample_IJI/Swing_Sample2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="585">
-              <caret line="39" column="25" lean-forward="true" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+              <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,7 +75,7 @@
         <entry file="file://$PROJECT_DIR$/src/Swing_Sample_IJI/Swing_Sample4.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="47" column="10" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="47" selection-end-column="10" />
+              <caret line="47" column="10" selection-start-line="19" selection-start-column="8" selection-end-line="47" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#649#650#0" expanded="true" />
@@ -98,7 +105,7 @@
         <entry file="file://$PROJECT_DIR$/src/Swing_Sample_IJI/Swing_Sample6.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -109,12 +116,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/StopWatch/StopWatchKun.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="543">
-              <caret line="67" column="42" selection-start-line="67" selection-start-column="42" selection-end-line="67" selection-end-column="42" />
+            <state relative-caret-position="255">
+              <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1898#1899#0" expanded="true" />
-                <element signature="e#1946#1947#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -236,7 +241,26 @@
             <path>
               <item name="Java_practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="artifacts" type="462c0819:PsiDirectoryNode" />
+              <item name="stopwacthkun_jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Java_practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_practice" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -245,9 +269,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549577701374" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549673798559" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
@@ -263,13 +287,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Swing_Sample6">
-    <configuration name="Swing_Sample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Swing_Sample_IJI.Swing_Sample2" />
+  <component name="RunManager" selected="Application.StopWatchKun">
+    <configuration name="StopWatchKun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StopWatch.StopWatchKun" />
       <module name="algorithm_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Swing_Sample_IJI.*" />
+          <option name="PATTERN" value="StopWatch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -330,19 +354,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Swing_Sample2" />
       <item itemvalue="Application.Swing_Sample3" />
       <item itemvalue="Application.Swing_Sample4" />
       <item itemvalue="Application.Swing_Sample5" />
       <item itemvalue="Application.Swing_Sample6" />
+      <item itemvalue="Application.StopWatchKun" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StopWatchKun" />
         <item itemvalue="Application.Swing_Sample6" />
         <item itemvalue="Application.Swing_Sample5" />
         <item itemvalue="Application.Swing_Sample4" />
         <item itemvalue="Application.Swing_Sample3" />
-        <item itemvalue="Application.Swing_Sample2" />
       </list>
     </recent_temporary>
   </component>
@@ -392,9 +416,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -408,7 +431,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.23493975" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.23493975" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
@@ -846,7 +869,7 @@
     <entry file="file://$PROJECT_DIR$/src/Swing_Sample_IJI/Swing_Sample2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
-          <caret line="39" column="25" lean-forward="true" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -866,7 +889,7 @@
     <entry file="file://$PROJECT_DIR$/src/Swing_Sample_IJI/Swing_Sample4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="47" column="10" lean-forward="true" selection-start-line="19" selection-start-column="8" selection-end-line="47" selection-end-column="10" />
+          <caret line="47" column="10" selection-start-line="19" selection-start-column="8" selection-end-line="47" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#649#650#0" expanded="true" />
@@ -892,7 +915,7 @@
     <entry file="file://$PROJECT_DIR$/src/Swing_Sample_IJI/Swing_Sample6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -901,12 +924,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/StopWatch/StopWatchKun.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="67" column="42" selection-start-line="67" selection-start-column="42" selection-end-line="67" selection-end-column="42" />
+        <state relative-caret-position="255">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1898#1899#0" expanded="true" />
-            <element signature="e#1946#1947#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -917,10 +938,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>stopwacthkun:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
