@@ -11,6 +11,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Java_pra" target="1.5" />
+      <module name="SlackBot.main" target="1.8" />
+      <module name="SlackBot.test" target="1.8" />
       <module name="TimerKun.main" target="1.8" />
       <module name="TimerKun.test" target="1.8" />
     </bytecodeTargetLevel>
