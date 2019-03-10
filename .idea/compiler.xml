@@ -10,6 +10,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Bot_Practice.main" target="1.8" />
+      <module name="Bot_Practice.test" target="1.8" />
       <module name="Java_pra" target="1.5" />
       <module name="SlackBot.main" target="1.8" />
       <module name="SlackBot.test" target="1.8" />
