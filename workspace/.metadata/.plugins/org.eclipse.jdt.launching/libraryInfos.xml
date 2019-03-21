@@ -1,5 +1,46 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <libraryInfos>
+<libraryInfo home="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home" version="1.8.0_131">
+<bootpath>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/resources.jar"/>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/rt.jar"/>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/sunrsasign.jar"/>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jsse.jar"/>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jce.jar"/>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/charsets.jar"/>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/jfr.jar"/>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="/Users/shotaro/Library/Java/Extensions"/>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/ext"/>
+<entry path="/Library/Java/Extensions"/>
+<entry path="/Network/Library/Java/Extensions"/>
+<entry path="/System/Library/Java/Extensions"/>
+<entry path="/usr/lib/java"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="/Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/jre/lib/endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="/Applications/Eclipse_2018-12.app/Contents/java/8/Home" version="1.8.0_192">
+<bootpath>
+<entry path="/Applications/Eclipse_2018-12.app/Contents/java/8/Home/jre/lib/resources.jar"/>
+<entry path="/Applications/Eclipse_2018-12.app/Contents/java/8/Home/jre/lib/rt.jar"/>
+<entry path="/Applications/Eclipse_2018-12.app/Contents/java/8/Home/jre/lib/sunrsasign.jar"/>
+<entry path="/Applications/Eclipse_2018-12.app/Contents/java/8/Home/jre/lib/jsse.jar"/>
+<entry path="/Applications/Eclipse_2018-12.app/Contents/java/8/Home/jre/lib/jce.jar"/>
+<entry path="/Applications/Eclipse_2018-12.app/Contents/java/8/Home/jre/lib/charsets.jar"/>
+<entry path="/Applications/Eclipse_2018-12.app/Contents/java/8/Home/jre/lib/jfr.jar"/>
+<entry path="/Applications/Eclipse_2018-12.app/Contents/java/8/Home/jre/classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="/Applications/Eclipse_2018-12.app/Contents/java/8/Home/jre/lib/ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="/Applications/Eclipse_2018-12.app/Contents/java/8/Home/jre/lib/endorsed"/>
+</endorsedDirs>
+</libraryInfo>
 <libraryInfo home="C:\Users\正太郎\Desktop\pleiades\eclipse\jre\jre" version="1.8.0_162">
 <bootpath>
 <entry path="C:\Users\正太郎\Desktop\pleiades\eclipse\jre\jre\lib\resources.jar"/>
