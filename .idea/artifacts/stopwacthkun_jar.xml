@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="stopwacthkun:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/stopwacthkun_jar</output-path>
-    <root id="archive" name="algorithm_java.jar">
-      <element id="module-output" name="algorithm_java" />
-    </root>
-  </artifact>
-</component>
